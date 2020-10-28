@@ -27,7 +27,7 @@ void main() => runApp(
            style:TextStyle(color: Colors.white, fontSize: 15.8)
         )),
         decoration:BoxDecoration(
-          color: Colors.red,
+          color: Colors.red[300],
   borderRadius: BorderRadius.circular(20)  
         )
       )   
@@ -38,5 +38,7 @@ void main() => runApp(
   }
   //changes done
   // note that adding from github can affect us!!
+  // a  sabur added a line comment
 
+   
   
