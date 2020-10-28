@@ -27,7 +27,8 @@ void main() => runApp(
            style:TextStyle(color: Colors.white, fontSize: 15.8)
         )),
         decoration:BoxDecoration(
-          color: Colors.red, //kaka lo daskary dakai ???????
+          color: Colors.red, //kaka lo daskary dakai ??????? 
+                            //har ba 3antary
   borderRadius: BorderRadius.circular(20)  
         )
       )   
