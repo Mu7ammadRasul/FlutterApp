@@ -27,14 +27,13 @@ void main() => runApp(
            style:TextStyle(color: Colors.white, fontSize: 15.8)
         )),
         decoration:BoxDecoration(
-          color: Colors.red[300],
+          color: Colors.red, //kaka lo daskary dakai ???????
   borderRadius: BorderRadius.circular(20)  
         )
       )   
     )
     );  
   }   
-  //psahn dada?
   }
   //changes done
   // note that adding from github can affect us!!
