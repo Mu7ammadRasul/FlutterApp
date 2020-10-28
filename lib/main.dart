@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main()=> runApp(
+void main() => runApp(
     MaterialApp(home:Home(),
   debugShowCheckedModeBanner: false,   
   title: 'we can do more :)'  
@@ -34,7 +34,7 @@ void main()=> runApp(
     )
     );  
   }   
-       
+  //psahn dada?
   }
   //changes done
   // note that adding from github can affect us!!
