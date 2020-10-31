@@ -28,7 +28,7 @@ void main() => runApp(
         )),
         decoration:BoxDecoration(
           color: Colors.red,
-  borderRadius: BorderRadius.circular(20)  
+          borderRadius: BorderRadius.circular(20)  
         )
       )   
     )
