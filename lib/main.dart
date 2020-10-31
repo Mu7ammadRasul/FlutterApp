@@ -27,7 +27,7 @@ void main() => runApp(
            style:TextStyle(color: Colors.white, fontSize: 15.8)
         )),
         decoration:BoxDecoration(
-          color: Colors.red, //kaka lo daskary dakai ???????
+          color: Colors.red,
   borderRadius: BorderRadius.circular(20)  
         )
       )   
@@ -35,9 +35,6 @@ void main() => runApp(
     );  
   }   
   }
-  //changes done
-  // note that adding from github can affect us!!
-  // a  sabur added a line comment
 
    
   
